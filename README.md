@@ -1,12 +1,15 @@
 # [AAAI 2024 Oral] M2CLIP: A Multimodal, Multi-Task Adapting Framework for Video Action Recognition
 
-This is the official repo of the paper [M2CLIP: A Multimodal, Multi-Task Adapting Framework for Video Action Recognition](https://arxiv.org/abs/2401.11649).
+This is the official repo of the paper [M2CLIP: A Multimodal, Multi-Task Adapting Framework for Video Action Recognition](https://ojs.aaai.org/index.php/AAAI/article/download/28361/28707).
 
 ```
-@article{wang2024m2,
-  title={M2-CLIP: A Multimodal, Multi-task Adapting Framework for Video Action Recognition},
+@inproceedings{wang2024multimodal,
+  title={A Multimodal, Multi-Task Adapting Framework for Video Action Recognition},
   author={Wang, Mengmeng and Xing, Jiazheng and Jiang, Boyuan and Chen, Jun and Mei, Jianbiao and Zuo, Xingxing and Dai, Guang and Wang, Jingdong and Liu, Yong},
-  journal={arXiv preprint arXiv:2401.11649},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={6},
+  pages={5517--5525},
   year={2024}
 }
 
